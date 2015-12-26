@@ -1,0 +1,19 @@
+{
+  "name": "js-router",
+  "version": "0.1.0",
+  "description": "Page.js inspired client side router",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tilleps/js-router.git"
+  },
+  "author": "Eugene Song <tilleps@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tilleps/js-router/issues"
+  },
+  "homepage": "https://github.com/tilleps/js-router#readme"
+}
